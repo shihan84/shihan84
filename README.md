@@ -48,6 +48,7 @@
 ![GStreamer](https://img.shields.io/badge/GStreamer-FF6600?logo=gstreamer&logoColor=white)
 ![Wowza](https://img.shields.io/badge/Wowza-FF6600?logo=wowza&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![Flussonic Media Server](https://img.shields.io/badge/Flussonic_Media_Server-23.12-orange?logo=flussonic&logoColor=white)
 
 #### **Cloud & Hosting**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
