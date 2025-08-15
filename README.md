@@ -1,18 +1,16 @@
 # 📡 Hi, I'm Shihan | Broadcast Engineer & Developer  
 
-### **Specializing in RF Systems, Streaming Tech, and Broadcast Automation**  
+### **Specializing in RF Systems, Streaming Tech, and Full-Stack Development**  
 
 🌐 **Skills & Expertise:**  
 - 📡 **RF Transmission & Satellite Systems**  
 - 📺 **Video Streaming** (HLS, SRT, RTMP, Wowza, FFmpeg)  
-- 🛠 **Broadcast Automation & Playout** (PHP, Python, Bash)  
-- 📶 **IP Networking & Multicast Streaming**  
+- 🖥️ **Full-Stack Development** (Frontend & Backend)  
+- 🛠 **Broadcast Automation & Playout**  
 
 ---
 
 ### 🔧 **My Projects & Tools**  
-Here are some of my key repositories:  
-
 | Project | Description |  
 |---------|-------------|  
 | [**m3u-filter**](https://github.com/shihan84/m3u-filter) | A tool to filter and optimize M3U playlists for IPTV. |  
@@ -23,10 +21,19 @@ Here are some of my key repositories:
 ---
 
 ### 🛠 **Tech Stack**  
+
+#### **Backend & Scripting**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)  
+
+#### **Frontend & Mobile**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+
+#### **Multimedia & Cloud**  
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?logo=ffmpeg&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
 
 ---
