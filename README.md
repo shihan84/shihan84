@@ -4,7 +4,7 @@
 
 🌐 **Skills & Expertise:**  
 - 📡 **RF Transmission & Satellite Systems**  
-- 📺 **Video Streaming** (HLS, SRT, RTMP, Wowza, FFmpeg)  
+- 📺 **Video Streaming** (HLS, SRT, RTMP, Nginx, FFmpeg, Flussonic, Wowza)  
 - 🖥️ **Full-Stack Development** (Frontend & Backend)  
 - 🛠 **Broadcast Automation & Playout**  
 
