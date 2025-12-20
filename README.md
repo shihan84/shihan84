@@ -84,7 +84,7 @@
 ---
 
 ### 📫 **Connect With Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://www.linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](www.linkedin.com/in/mohammad-ahsan-ali-1719b72b1)  
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](https://twitter.com/yourhandle)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Website](https://img.shields.io/badge/Website-4285F4?logo=google-chrome&logoColor=white)](https://yourwebsite.com)
