@@ -17,7 +17,7 @@
 ### 🔧 **Featured Projects**  
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| [**Hls-Monitor**]((https://github.com/shihan84/hls-monitor)(https://hls-monitor.vercel.app/)) |A modern, self-hosted HLS multi-viewer | Python, FFmpeg |
+| [**Hls-Monitor**](https://github.com/shihan84/hls-monitor) |A modern, self-hosted HLS multi-viewer | Python, FFmpeg |
 | [**EPG-Manager**](https://github.com/shihan84/epg-manager) | A comprehensive EPG (Electronic Program Guide) management system | PHP, Composer |
 | [**tv-logos**](https://github.com/shihan84/tv-logos) | Comprehensive TV channel logo collection | SVG, PNG |
 | [**m3u**](https://github.com/shihan84/m3u) | M3U playlist utilities for media streaming | Bash, Python |
