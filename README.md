@@ -17,8 +17,8 @@
 ### 🔧 **Featured Projects**  
 | Project | Description | Tech Used |
 |---------|-------------|-----------|
-| [**m3u-filter**](https://github.com/shihan84/m3u-filter) | Advanced M3U playlist processor for IPTV | Python, FFmpeg |
-| [**php-curl-class**](https://github.com/shihan84/php-curl-class) | Robust PHP cURL wrapper for APIs | PHP, Composer |
+| [**Hls-Monitor**]([(https://github.com/shihan84/hls-monitor)](https://hls-monitor.vercel.app/)) |A modern, self-hosted HLS multi-viewer | Python, FFmpeg |
+| [**EPG-Manager**](https://github.com/shihan84/epg-manager) | A comprehensive EPG (Electronic Program Guide) management system | PHP, Composer |
 | [**tv-logos**](https://github.com/shihan84/tv-logos) | Comprehensive TV channel logo collection | SVG, PNG |
 | [**m3u**](https://github.com/shihan84/m3u) | M3U playlist utilities for media streaming | Bash, Python |
 
