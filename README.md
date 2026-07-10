@@ -19,8 +19,8 @@
 |---------|-------------|-----------|
 | [**Hls-Monitor**](https://github.com/shihan84/hls-monitor) |A modern, self-hosted HLS multi-viewer | Python, FFmpeg |
 | [**EPG-Manager**](https://github.com/shihan84/epg-manager) | A comprehensive EPG (Electronic Program Guide) management system | PHP, Composer |
-| [**Fplay-Cloud**](https://github.com/shihan84/Fplay) | F-play Cloud Playout Streaming | Live, Multi Channel |
-| [**RPI Player**](https://github.com/shihan84/rpiplayer) | Raspberry Pi 3 streaming player with web GUI | RTMP, SRT, UDP |
+| [**Fplay-Cloud**](https://github.com/shihan84/Fplay) | F-play Cloud Playout Streaming | FFmpeg, Nodejs |
+| [**RPI Player**](https://github.com/shihan84/rpiplayer) | Raspberry Pi 3 streaming player with web GUI | FFmpeg, Nodejs |
 
 ---
 
