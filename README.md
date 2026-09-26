@@ -1,257 +1,242 @@
 <div align="center">
 
-# 👋 Hi, I'm JD Sir
+# ⚡ JD SIR // SHIHAN84
 
-### Broadcast Engineer • Streaming Systems Builder • Full-Stack Developer
+### `BROADCAST ENGINEER` • `STREAMING SYSTEMS` • `FULL-STACK` • `AI BUILDER`
 
-Building broadcast, OTT, live-streaming, playout, SCTE-35/SSAI and AI-powered platforms.
+**Broadcast Engineering × Software × AI**
 
-[![GitHub](https://img.shields.io/badge/GitHub-shihan84-181717?style=for-the-badge&logo=github)](https://github.com/shihan84)
-[![Telegram](https://img.shields.io/badge/Telegram-shihan84-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shihan84)
-![Public Repositories](https://img.shields.io/badge/Public%20Repositories-90-0969DA?style=for-the-badge&logo=github)
-![Profile Views](https://komarev.com/ghpvc/?username=shihan84&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
-## 🚀 About Me
-
-I work at the intersection of **broadcast engineering and software development**, building tools that connect traditional television workflows with modern IP video, OTT and cloud infrastructure.
-
-My main interests include:
-
-- 📡 Broadcast engineering, RF and satellite workflows
-- 🎥 Live video encoding, transcoding and contribution
-- 🔴 SRT, RTMP, HLS, MPEG-TS and IP video
-- ✂️ SCTE-35 ad signaling, cue insertion and SSAI workflows
-- 📺 Channel-in-a-box, automation and cloud playout
-- 🖥️ Broadcast monitoring, multiviewers and control systems
-- 📅 EPG and TV metadata management
-- 📱 Android, iOS and cross-platform streaming applications
-- 🤖 AI-assisted education, automation and media tools
-- ☁️ Self-hosted and cloud media infrastructure
-
----
-
-## 🏆 GitHub Highlights & Achievements
-
-<div align="center">
-
-<img src="./trophy.svg" alt="GitHub profile trophies" width="100%" />
+Building production-focused systems for **live television, OTT, IP contribution, SCTE-35/SSAI, cloud playout, monitoring and intelligent applications.**
 
 <br/>
 
-![Public Repositories](https://img.shields.io/badge/PUBLIC%20REPOSITORIES-90-0969DA?style=for-the-badge&logo=github)
-![Broadcast](https://img.shields.io/badge/BROADCAST-ENGINEERING-FF6B00?style=for-the-badge)
-![SCTE-35](https://img.shields.io/badge/SCTE--35-SSAI-8A2BE2?style=for-the-badge)
-![Streaming](https://img.shields.io/badge/LIVE-STREAMING-E50914?style=for-the-badge)
-![OTT](https://img.shields.io/badge/OTT-CLOUD%20PLAYOUT-0078D4?style=for-the-badge)
-![AI](https://img.shields.io/badge/AI-APPLICATIONS-00A67E?style=for-the-badge)
+[![PROFILE](https://img.shields.io/badge/GITHUB-SHIHAN84-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84)
+[![REPOS](https://img.shields.io/badge/PUBLIC_REPOS-90-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84?tab=repositories)
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-CONNECT-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/shihan84)
+![VIEWS](https://komarev.com/ghpvc/?username=shihan84&label=PROFILE+VIEWS&style=for-the-badge&color=0D1117)
 
 </div>
 
-> The trophy image is generated inside this repository by GitHub Actions, avoiding unreliable third-party trophy hosting. GitHub's own official Achievements continue to appear automatically on the profile when earned.
+---
 
-### 💡 What I Build
+<div align="center">
+
+## ◈ SYSTEM PROFILE
+
+`BROADCAST`　`OTT`　`SRT`　`HLS`　`RTMP`　`SCTE-35`　`SSAI`　`FFMPEG`　`PLAYOUT`　`AI`
+
+</div>
+
+> I build at the intersection of **broadcast engineering and software development** — connecting traditional television workflows with modern IP video, OTT, cloud infrastructure, automation and AI.
 
 ```text
-LIVE CONTRIBUTION                    BROADCAST / OTT PIPELINE
-─────────────────                    ────────────────────────
-SRT • RTMP • RTSP • UDP  ───────▶   Ingest
-                                      │
-                                      ▼
-                              FFmpeg • GStreamer
-                                      │
-                    ┌─────────────────┼─────────────────┐
-                    ▼                 ▼                 ▼
-                 SCTE-35           Graphics          ABR Encode
-                 / SSAI            / CG              / Transcode
-                    │                 │                 │
-                    └─────────────────┼─────────────────┘
-                                      ▼
-                              HLS • MPEG-TS • OTT
-                                      │
-                                      ▼
-                         Playout • Apps • Monitoring
-```
-
-
-## ⭐ Featured Projects
-
-### 🎬 [SCTE-35 Stream Injector](https://github.com/shihan84/SCTE-35-Encoder-Stream-Injector)
-
-Professional SCTE-35 stream-injection and monitoring system designed for broadcast and streaming workflows.
-
-**Highlights:** real-time SCTE-35 injection • HLS → SRT • pre-roll support • event scheduling • monitoring • FFmpeg integration
-
----
-
-### 📡 [Live Streaming Encoder](https://github.com/shihan84/Live-Streaming-Encoder)
-
-An enterprise-style live encoder and channel-management platform with SCTE-35 scheduling.
-
-**Inputs / workflows:** RTMP • SRT • NDI • UDP • DeckLink • multi-channel encoding • real-time monitoring
-
-**Stack:** Next.js • TypeScript • Tailwind CSS • Prisma • WebSockets • Docker
-
----
-
-### 📺 [EPG Builder](https://github.com/shihan84/epg-builder)
-
-Electronic Program Guide management platform for television channels and streaming services, with a focus on Indian-language broadcasters.
-
-**Features:** channel management • program library • scheduling • schedule copying • metadata • multilingual workflows
-
----
-
-### 🎛️ [HLS Monitor](https://github.com/shihan84/hls-monitor)
-
-Self-hosted HLS monitoring and multiviewer project for live broadcast operations.
-
----
-
-### 🧠 [AI Homeschool System](https://github.com/shihan84/Ai-HomeSchooling)
-
-AI-assisted learning platform for the Indian education ecosystem from Nursery through Class 12.
-
-**Focus:** AI tutoring • adaptive testing • personalized learning paths • progress tracking • CBSE/ICSE/NIOS and other curricula
-
----
-
-### 💍 [Qismat](https://github.com/shihan84/qismat)
-
-Full-stack matrimony platform spanning web, administration, API/backend and Android/iOS applications.
-
-**Architecture:** Laravel • Flutter • web/admin portals • GitHub Actions • Xcode Cloud • cPanel/SSH deployment
-
----
-
-## 📡 Broadcast & Streaming
-
-<p>
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white"/>
-<img src="https://img.shields.io/badge/GStreamer-585858?style=flat-square&logo=gstreamer&logoColor=white"/>
-<img src="https://img.shields.io/badge/SRT-Live%20Transport-red?style=flat-square"/>
-<img src="https://img.shields.io/badge/HLS-Streaming-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/RTMP-Live%20Video-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/SCTE--35-Ad%20Signaling-purple?style=flat-square"/>
-<img src="https://img.shields.io/badge/MPEG--TS-Transport%20Stream-informational?style=flat-square"/>
-<img src="https://img.shields.io/badge/OBS-Studio-302E31?style=flat-square&logo=obsstudio&logoColor=white"/>
-</p>
-
-I regularly experiment with architectures such as:
-
-```text
-Contribution
-   │
-   ├── SRT / RTMP / UDP / RTSP
-   ▼
-Ingest & Processing
-   │
-   ├── FFmpeg / GStreamer
-   ├── SCTE-35 signaling
-   ├── Graphics / overlays
-   └── ABR transcoding
-   ▼
-Origin / Packaging
-   │
-   ├── HLS / MPEG-TS
-   └── OTT distribution
-   ▼
-Monitoring • Playout • SSAI • Applications
+┌──────────────────────────────────────────────────────────────────────┐
+│                       BROADCAST / OTT PIPELINE                       │
+├──────────────────────────────────────────────────────────────────────┤
+│                                                                      │
+│   SRT • RTMP • RTSP • UDP                                            │
+│            │                                                         │
+│            ▼                                                         │
+│     ┌──────────────┐       ┌──────────────┐       ┌──────────────┐   │
+│     │    INGEST    │ ───▶  │  PROCESSING  │ ───▶  │  PACKAGING   │   │
+│     └──────────────┘       └──────────────┘       └──────────────┘   │
+│                                │                       │             │
+│                       FFmpeg • GStreamer          HLS • MPEG-TS      │
+│                                │                       │             │
+│                  SCTE-35 • SSAI • CG • ABR             ▼             │
+│                                               ┌──────────────┐       │
+│                                               │ OTT / APPS   │       │
+│                                               └──────────────┘       │
+│                                                      │               │
+│                                                      ▼               │
+│                                      MONITORING • PLAYOUT • CONTROL  │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ Development Stack
-
-### Languages & Frameworks
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,nodejs,typescript,javascript,php,react,nextjs,flutter,kotlin,swift,laravel" />
-</p>
-
-### Infrastructure & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,aws,gcp,supabase,postgres,mysql" />
-</p>
-
-### Platforms & Tools
-
-`FFmpeg` • `GStreamer` • `Flussonic` • `OvenMediaEngine` • `OBS` • `SRT` • `HLS` • `RTMP` • `SCTE-35` • `MPEG-TS`
-
----
-
-## 🔬 Current Areas of Development
-
-I am actively exploring and building around:
-
-- **SCTE-35 / SCTE-104** signaling and preservation across streaming pipelines
-- **Server-side ad insertion (SSAI)** workflows
-- **SRT/Zixi-style contribution → ABR HLS** architectures
-- **Cloud and software-defined broadcast playout**
-- **Real-time graphics, tickers and broadcast overlays**
-- **Broadcast control centers and monitoring dashboards**
-- **Mobile live-streaming applications**
-- **AI agents and AI-assisted media workflows**
-- **AI education and personalized learning platforms**
-
----
-
-## 📂 More Broadcast Projects
-
-| Project | Area |
-|---|---|
-| [gpac-scte](https://github.com/shihan84/gpac-scte) | SCTE-35 / GPAC experimentation |
-| [FFmpeg-Builds-Scte35](https://github.com/shihan84/FFmpeg-Builds-Scte35) | FFmpeg + SCTE-35 |
-| [broadcast-control-center](https://github.com/shihan84/broadcast-control-center) | Broadcast operations |
-| [cloud-playout](https://github.com/shihan84/cloud-playout) | Cloud playout |
-| [cg-overlay](https://github.com/shihan84/cg-overlay) | Broadcast graphics |
-| [news-overlay](https://github.com/shihan84/news-overlay) | News graphics / overlays |
-| [rpi-enc](https://github.com/shihan84/rpi-enc) | Raspberry Pi encoding |
-| [rpiplayer](https://github.com/shihan84/rpiplayer) | Raspberry Pi streaming player |
-| [OvenMediaEngine](https://github.com/shihan84/OvenMediaEngine) | Media server experimentation |
-| [Flutter-live](https://github.com/shihan84/Flutter-live) | Mobile live streaming |
-
----
-
-## 📊 Live GitHub Dashboard
-
 <div align="center">
 
-### 90+ Public Projects • Broadcast • Streaming • OTT • AI
+## 🏆 ACHIEVEMENTS // LIVE METRICS
 
-</div>
+<img src="./trophy.svg" width="100%" alt="GitHub trophies"/>
 
+<br/><br/>
 
-<div align="center">
+![Broadcast](https://img.shields.io/badge/FOCUS-BROADCAST_ENGINEERING-0D1117?style=for-the-badge&logo=airplayvideo&logoColor=00E5FF)
+![Streaming](https://img.shields.io/badge/FOCUS-LIVE_STREAMING-0D1117?style=for-the-badge&logo=streamlabs&logoColor=00E5FF)
+![SCTE](https://img.shields.io/badge/SPECIALITY-SCTE--35_%2F_SSAI-0D1117?style=for-the-badge&logo=buffer&logoColor=00E5FF)
+![OTT](https://img.shields.io/badge/FOCUS-OTT_%2F_PLAYOUT-0D1117?style=for-the-badge&logo=tvtime&logoColor=00E5FF)
+![AI](https://img.shields.io/badge/BUILDING-AI_SYSTEMS-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shihan84&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" />
-<img height="170" src="https://streak-stats.demolab.com?user=shihan84&theme=github-dark-blue&hide_border=true" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shihan84&theme=github-compact&hide_border=true&area=true" width="98%" alt="Contribution activity graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihan84&theme=github_dark" width="98%" alt="Profile details"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shihan84&theme=github_dark" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shihan84&theme=github_dark" width="32%" alt="Commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shihan84&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive time"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+<div align="center">
 
-I'm interested in collaborating on **broadcast automation, live streaming, OTT, SCTE-35, SSAI, playout, media infrastructure and AI-powered applications**.
+## 🚀 FEATURED SYSTEMS
 
-📨 **Telegram:** [@shihan84](https://t.me/shihan84)  
-💻 **GitHub:** [github.com/shihan84](https://github.com/shihan84)
+</div>
+
+### 🎬 SCTE-35 STREAM INJECTOR
+[![Repo](https://img.shields.io/badge/OPEN_REPOSITORY-SCTE--35_STREAM_INJECTOR-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/SCTE-35-Encoder-Stream-Injector)
+
+Real-time SCTE-35 stream injection, HLS → SRT workflows, pre-roll support, scheduling, monitoring and FFmpeg integration.
+
+`SCTE-35` `HLS` `SRT` `FFmpeg` `Ad Signaling` `Monitoring`
+
+### 📡 LIVE STREAMING ENCODER
+[![Repo](https://img.shields.io/badge/OPEN_REPOSITORY-LIVE_STREAMING_ENCODER-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/Live-Streaming-Encoder)
+
+Enterprise-style encoder and channel-management platform with SCTE-35 scheduling, multi-input workflows and real-time monitoring.
+
+`SRT` `RTMP` `NDI` `UDP` `DeckLink` `Next.js` `TypeScript` `Docker`
+
+### 📺 EPG BUILDER
+[![Repo](https://img.shields.io/badge/OPEN_REPOSITORY-EPG_BUILDER-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/epg-builder)
+
+Electronic Program Guide management for TV and streaming services with channel, schedule, metadata and multilingual workflows.
+
+`EPG` `TV Metadata` `Scheduling` `Next.js` `PostgreSQL`
+
+### 🎛️ HLS MONITOR
+[![Repo](https://img.shields.io/badge/OPEN_REPOSITORY-HLS_MONITOR-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/hls-monitor)
+
+Self-hosted HLS monitoring and multiviewer tooling for live broadcast operations.
+
+`HLS` `Monitoring` `Multiviewer` `FFmpeg`
+
+### 🧠 AI HOMESCHOOL
+[![Repo](https://img.shields.io/badge/OPEN_REPOSITORY-AI_HOMESCHOOL-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/Ai-HomeSchooling)
+
+AI-assisted education platform with tutoring, adaptive testing, learning paths and progress tracking.
+
+`AI Tutor` `Adaptive Learning` `Next.js` `TypeScript`
+
+### 💍 QISMAT
+[![Repo](https://img.shields.io/badge/OPEN_REPOSITORY-QISMAT_PLATFORM-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/qismat)
+
+Full-stack matrimony platform spanning web, administration, backend API and Android/iOS applications.
+
+`Laravel` `Flutter` `Android` `iOS` `GitHub Actions` `Xcode Cloud`
 
 ---
 
 <div align="center">
 
-### 📡 Broadcast Engineering × Software × AI
+## ⚙️ BROADCAST TECHNOLOGY MATRIX
 
-*Building practical tools for the future of television and streaming.*
+![FFmpeg](https://img.shields.io/badge/FFmpeg-0D1117?style=for-the-badge&logo=ffmpeg&logoColor=00E5FF)
+![GStreamer](https://img.shields.io/badge/GStreamer-0D1117?style=for-the-badge&logo=gstreamer&logoColor=00E5FF)
+![OBS](https://img.shields.io/badge/OBS_Studio-0D1117?style=for-the-badge&logo=obsstudio&logoColor=00E5FF)
+![SRT](https://img.shields.io/badge/SRT-0D1117?style=for-the-badge&logoColor=00E5FF)
+![HLS](https://img.shields.io/badge/HLS-0D1117?style=for-the-badge&logo=apple&logoColor=00E5FF)
+![RTMP](https://img.shields.io/badge/RTMP-0D1117?style=for-the-badge&logo=youtube&logoColor=00E5FF)
+![MPEGTS](https://img.shields.io/badge/MPEG--TS-0D1117?style=for-the-badge&logo=video&logoColor=00E5FF)
+![SCTE35](https://img.shields.io/badge/SCTE--35-0D1117?style=for-the-badge&logo=buffer&logoColor=00E5FF)
+![SSAI](https://img.shields.io/badge/SSAI-0D1117?style=for-the-badge&logo=googleads&logoColor=00E5FF)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=00E5FF)
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00E5FF)
+![Nginx](https://img.shields.io/badge/Nginx-0D1117?style=for-the-badge&logo=nginx&logoColor=00E5FF)
 
-![Profile Views](https://komarev.com/ghpvc/?username=shihan84&style=flat-square)
+</div>
+
+---
+
+<div align="center">
+
+## 🧰 DEVELOPMENT ARSENAL
+
+### CODE // FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=python,nodejs,ts,js,php,react,nextjs,flutter,kotlin,swift,laravel&theme=dark" />
+
+### INFRA // DEVOPS // DATA
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,git,github,githubactions,aws,gcp,supabase,postgres,mysql&theme=dark" />
+
+</div>
+
+---
+
+## 🔬 CURRENT R&D
+
+![SCTE104](https://img.shields.io/badge/R%26D-SCTE--35_%2F_SCTE--104-0D1117?style=for-the-badge&logo=buffer&logoColor=00E5FF)
+![SSAI](https://img.shields.io/badge/R%26D-SERVER_SIDE_AD_INSERTION-0D1117?style=for-the-badge&logo=googleads&logoColor=00E5FF)
+![ABR](https://img.shields.io/badge/R%26D-ABR_STREAMING-0D1117?style=for-the-badge&logo=cloudflare&logoColor=00E5FF)
+![Playout](https://img.shields.io/badge/R%26D-CLOUD_PLAYOUT-0D1117?style=for-the-badge&logo=icloud&logoColor=00E5FF)
+![Graphics](https://img.shields.io/badge/R%26D-REALTIME_GRAPHICS-0D1117?style=for-the-badge&logo=adobe&logoColor=00E5FF)
+![AI](https://img.shields.io/badge/R%26D-AI_AGENTS-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF)
+
+- SCTE-35 / SCTE-104 signaling and preservation across streaming pipelines
+- Server-side ad insertion and broadcast monetization workflows
+- SRT/Zixi-style contribution → adaptive bitrate HLS
+- Cloud and software-defined broadcast playout
+- Real-time graphics, tickers and overlays
+- Broadcast control centers and monitoring dashboards
+- Mobile live-streaming systems
+- AI agents and AI-assisted media/education platforms
+
+---
+
+<div align="center">
+
+## 📦 BROADCAST REPOSITORY NETWORK
+
+[![GPAC](https://img.shields.io/badge/gpac--scte-SCTE_EXPERIMENTS-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/gpac-scte)
+[![FFmpeg SCTE](https://img.shields.io/badge/FFmpeg_Builds-SCTE35-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/FFmpeg-Builds-Scte35)
+[![BCC](https://img.shields.io/badge/Broadcast-Control_Center-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/broadcast-control-center)
+[![Cloud Playout](https://img.shields.io/badge/Cloud-Playout-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/cloud-playout)
+[![CG](https://img.shields.io/badge/CG-Overlay-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/cg-overlay)
+[![News](https://img.shields.io/badge/News-Overlay-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/news-overlay)
+[![RPI](https://img.shields.io/badge/RPI-Encoder-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00E5FF)](https://github.com/shihan84/rpi-enc)
+[![RPI Player](https://img.shields.io/badge/RPI-Player-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00E5FF)](https://github.com/shihan84/rpiplayer)
+[![OME](https://img.shields.io/badge/OvenMediaEngine-Lab-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84/OvenMediaEngine)
+[![Flutter](https://img.shields.io/badge/Flutter-Live-0D1117?style=for-the-badge&logo=flutter&logoColor=00E5FF)](https://github.com/shihan84/Flutter-live)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 LIVE GITHUB COMMAND CENTER
+
+### `90+ PUBLIC PROJECTS // BROADCAST // STREAMING // OTT // AI`
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=shihan84&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9" alt="GitHub stats"/>
+<img height="175" src="https://streak-stats.demolab.com?user=shihan84&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" alt="GitHub streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shihan84&bg_color=0D1117&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&hide_border=true" width="98%" alt="Contribution graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 CONNECT
+
+[![GitHub](https://img.shields.io/badge/GITHUB-shihan84-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF)](https://github.com/shihan84)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-@shihan84-0D1117?style=for-the-badge&logo=telegram&logoColor=00E5FF)](https://t.me/shihan84)
+
+<br/>
+
+### `📡 BROADCAST ENGINEERING × SOFTWARE × AI`
+
+**Building practical systems for the future of television and streaming.**
+
+![Views](https://komarev.com/ghpvc/?username=shihan84&label=VISITORS&style=for-the-badge&color=0D1117)
 
 </div>
