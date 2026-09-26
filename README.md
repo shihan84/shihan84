@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Shihan
+# 👋 Hi, I'm JD Sir
 
 ### Broadcast Engineer • Streaming Systems Builder • Full-Stack Developer
 
