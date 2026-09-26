@@ -1,0 +1,36 @@
+name: Update Profile Trophies
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: shihan84
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy when changed
+        shell: bash
+        run: |
+          if git diff --quiet -- trophy.svg && git ls-files --error-unmatch trophy.svg >/dev/null 2>&1; then
+            echo "No trophy changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "chore: refresh profile trophies"
+          git push
