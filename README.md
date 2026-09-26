@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ JD SIR // SHIHAN84
+# ⚡ JD SIR 
 
 ### `BROADCAST ENGINEER` • `STREAMING SYSTEMS` • `FULL-STACK` • `AI BUILDER`
 
