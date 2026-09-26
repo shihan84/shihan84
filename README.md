@@ -8,6 +8,8 @@ Building broadcast, OTT, live-streaming, playout, SCTE-35/SSAI and AI-powered pl
 
 [![GitHub](https://img.shields.io/badge/GitHub-shihan84-181717?style=for-the-badge&logo=github)](https://github.com/shihan84)
 [![Telegram](https://img.shields.io/badge/Telegram-shihan84-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shihan84)
+![Public Repositories](https://img.shields.io/badge/Public%20Repositories-90-0969DA?style=for-the-badge&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=shihan84&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -29,6 +31,36 @@ My main interests include:
 - 📱 Android, iOS and cross-platform streaming applications
 - 🤖 AI-assisted education, automation and media tools
 - ☁️ Self-hosted and cloud media infrastructure
+
+---
+
+## 🏆 GitHub Highlights & Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shihan84&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+> GitHub's **official Achievements** are displayed automatically on my GitHub profile when earned. The cards below are live profile/activity visualizations rather than claims of official GitHub awards.
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihan84&theme=github_dark" width="98%" alt="GitHub profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shihan84&theme=github_dark" width="32%" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shihan84&theme=github_dark" width="32%" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shihan84&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive time" />
+
+</div>
+
+### ⚡ Profile Snapshot
+
+![Broadcast Engineering](https://img.shields.io/badge/Focus-Broadcast%20Engineering-FF6B00?style=for-the-badge)
+![Streaming](https://img.shields.io/badge/Focus-Live%20Streaming-E50914?style=for-the-badge)
+![SCTE-35](https://img.shields.io/badge/Specialization-SCTE--35%20%2F%20SSAI-8A2BE2?style=for-the-badge)
+![OTT](https://img.shields.io/badge/Focus-OTT%20%26%20Playout-0078D4?style=for-the-badge)
+![AI](https://img.shields.io/badge/Building-AI%20Applications-00A67E?style=for-the-badge)
 
 ---
 
@@ -176,8 +208,10 @@ I am actively exploring and building around:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shihan84&show_icons=true&hide_border=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=shihan84&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shihan84&show_icons=true&rank_icon=github&theme=github_dark&hide_border=true" />
+<img height="170" src="https://streak-stats.demolab.com?user=shihan84&theme=github-dark-blue&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shihan84&theme=github-compact&hide_border=true&area=true" width="98%" alt="Contribution activity graph" />
 
 </div>
 
