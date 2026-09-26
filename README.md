@@ -38,31 +38,44 @@ My main interests include:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shihan84&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="./trophy.svg" alt="GitHub profile trophies" width="100%" />
+
+<br/>
+
+![Public Repositories](https://img.shields.io/badge/PUBLIC%20REPOSITORIES-90-0969DA?style=for-the-badge&logo=github)
+![Broadcast](https://img.shields.io/badge/BROADCAST-ENGINEERING-FF6B00?style=for-the-badge)
+![SCTE-35](https://img.shields.io/badge/SCTE--35-SSAI-8A2BE2?style=for-the-badge)
+![Streaming](https://img.shields.io/badge/LIVE-STREAMING-E50914?style=for-the-badge)
+![OTT](https://img.shields.io/badge/OTT-CLOUD%20PLAYOUT-0078D4?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-APPLICATIONS-00A67E?style=for-the-badge)
 
 </div>
 
-> GitHub's **official Achievements** are displayed automatically on my GitHub profile when earned. The cards below are live profile/activity visualizations rather than claims of official GitHub awards.
+> The trophy image is generated inside this repository by GitHub Actions, avoiding unreliable third-party trophy hosting. GitHub's own official Achievements continue to appear automatically on the profile when earned.
 
-<div align="center">
+### 💡 What I Build
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shihan84&theme=github_dark" width="98%" alt="GitHub profile details" />
+```text
+LIVE CONTRIBUTION                    BROADCAST / OTT PIPELINE
+─────────────────                    ────────────────────────
+SRT • RTMP • RTSP • UDP  ───────▶   Ingest
+                                      │
+                                      ▼
+                              FFmpeg • GStreamer
+                                      │
+                    ┌─────────────────┼─────────────────┐
+                    ▼                 ▼                 ▼
+                 SCTE-35           Graphics          ABR Encode
+                 / SSAI            / CG              / Transcode
+                    │                 │                 │
+                    └─────────────────┼─────────────────┘
+                                      ▼
+                              HLS • MPEG-TS • OTT
+                                      │
+                                      ▼
+                         Playout • Apps • Monitoring
+```
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shihan84&theme=github_dark" width="32%" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shihan84&theme=github_dark" width="32%" alt="Most commit language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shihan84&theme=github_dark&utcOffset=5.5" width="32%" alt="Productive time" />
-
-</div>
-
-### ⚡ Profile Snapshot
-
-![Broadcast Engineering](https://img.shields.io/badge/Focus-Broadcast%20Engineering-FF6B00?style=for-the-badge)
-![Streaming](https://img.shields.io/badge/Focus-Live%20Streaming-E50914?style=for-the-badge)
-![SCTE-35](https://img.shields.io/badge/Specialization-SCTE--35%20%2F%20SSAI-8A2BE2?style=for-the-badge)
-![OTT](https://img.shields.io/badge/Focus-OTT%20%26%20Playout-0078D4?style=for-the-badge)
-![AI](https://img.shields.io/badge/Building-AI%20Applications-00A67E?style=for-the-badge)
-
----
 
 ## ⭐ Featured Projects
 
@@ -204,7 +217,14 @@ I am actively exploring and building around:
 
 ---
 
-## 📊 GitHub
+## 📊 Live GitHub Dashboard
+
+<div align="center">
+
+### 90+ Public Projects • Broadcast • Streaming • OTT • AI
+
+</div>
+
 
 <div align="center">
 
