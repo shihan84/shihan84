@@ -59,7 +59,13 @@ Building production-focused systems for **live television, OTT, IP contribution,
 
 ## 🏆 ACHIEVEMENTS // LIVE METRICS
 
-<img src="./trophy.svg" width="100%" alt="GitHub trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=shihan84&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Profile Trophies"/>
+</a>
+
+<br/>
+
+<sub>Live trophies via an upstream-listed Vercel load-balancing endpoint. Local <code>trophy.svg</code> remains available as a repository fallback.</sub>
 
 <br/><br/>
 
