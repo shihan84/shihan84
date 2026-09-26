@@ -60,12 +60,12 @@ Building production-focused systems for **live television, OTT, IP contribution,
 ## 🏆 ACHIEVEMENTS // LIVE METRICS
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://raw.githubusercontent.com/shihan84/shihan84/main/trophy.svg" width="100%" alt="GitHub Profile Trophies"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=shihan84&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" width="100%" alt="GitHub Profile Trophies"/>
 </a>
 
 <br/>
 
-<sub>Self-generated from GitHub data and served from this profile repository — no public Vercel dependency.</sub>
+<sub>DarkHub trophies via the currently referenced <code>github-profile-trophy-fork-two</code> volunteer mirror.</sub>
 
 <br/><br/>
 
